@@ -34,6 +34,7 @@ sangrón y narcisista.
 y siempre está detrás de las travesuras de Buggy.
 
 - Escenario:
+  
    **Terreno por nivel:**
   
 Nivel 1: Persiguiendo a Robin por las calles de la ciudad.
