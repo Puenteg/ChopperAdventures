@@ -2,7 +2,6 @@
 <p align="center">
     <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/ChopperAdventure.jpeg" alt="Logo" width=1200 height=300>
 
-    <p align="center">
  Este repositorio en el cual se documentará y evidenciará el juego de ChopperAdventures de Maria Guadalupe Puente Gonzalez para la materia de Creación de Videojuego
     <br> 
     </p>
@@ -38,22 +37,28 @@ y siempre está detrás de las travesuras de Buggy.
   1. Terreno por nivel:
   
 Nivel 1: Persiguiendo a Robin por las calles de la ciudad.
+
 Nivel 2: Persiguiendo a Robin por las calles de la ciudad y esquivando 
 obstáculos.
+
 Nivel 3: Persiguiendo a Robi y Buggy por las calles de la ciudad y atrapándolos 
 a los 2 y recuperando sus juguetes
 
 2. Decoraciones por nivel.
    
 Nivel 1: Decoraciones de las calles de una ciudad y semáforos.
+
 Nivel 2: Decoraciones de las calles de una ciudad y diferentes obstáculos.
+
 Nivel 3: Decoraciones de las calles de una ciudad con diferentes estilos de 
 carretera o calle.
 
 4. Objetos
 
 Nivel 1: Vehículos, personajes, semáforos y edificios.
+
 Nivel 2: Vehículos, personajes, diferentes tipos de obstáculos 
+
 Nivel 3: Vehículos, personajes, diferentes tipos de obstáculos y semáforos.
 
 - Historia:
