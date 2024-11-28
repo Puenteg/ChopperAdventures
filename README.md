@@ -86,7 +86,7 @@ de esto fue traes ellos en su vehículo color rojo por toda la ciudad.
 
 ## Planificación
 
-![ChopperAdventures]()
+![ChopperAdventures](https://app.asana.com/0/1208863515326699/1208863514020512)
 
 ## Autores
 Maria Guadalupe Puente Gonzalez.
