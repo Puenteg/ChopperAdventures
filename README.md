@@ -34,7 +34,7 @@ sangrón y narcisista.
 y siempre está detrás de las travesuras de Buggy.
 
 - Escenario:
-  1. Terreno por nivel:
+   **Terreno por nivel:**
   
 Nivel 1: Persiguiendo a Robin por las calles de la ciudad.
 
@@ -44,7 +44,7 @@ obstáculos.
 Nivel 3: Persiguiendo a Robi y Buggy por las calles de la ciudad y atrapándolos 
 a los 2 y recuperando sus juguetes
 
-2. Decoraciones por nivel.
+**Decoraciones por nivel:*** 
    
 Nivel 1: Decoraciones de las calles de una ciudad y semáforos.
 
@@ -53,7 +53,7 @@ Nivel 2: Decoraciones de las calles de una ciudad y diferentes obstáculos.
 Nivel 3: Decoraciones de las calles de una ciudad con diferentes estilos de 
 carretera o calle.
 
-4. Objetos
+**Objetos:**
 
 Nivel 1: Vehículos, personajes, semáforos y edificios.
 
@@ -72,8 +72,8 @@ fueron robadas por dos gatos Buggy y Robin. Al momento de que Chopper se percat�
 de esto fue traes ellos en su vehículo color rojo por toda la ciudad.
 
 - Reglas de Juego:
-  1. Robin, Buggy y Chopper no deben de salirse de la carretera y/o calle.
-  2. Chopper debe de conducir un vehículo.
+  1.Robin, Buggy y Chopper no deben de salirse de la carretera y/o calle.
+  2.Chopper debe de conducir un vehículo.
 
 - Pantallas de Juego: 
 
