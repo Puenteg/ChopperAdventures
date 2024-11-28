@@ -8,6 +8,13 @@
     </p>
     .
 ## Contenido
+
+- [Introducción](#introducción)
+- [Código Fuente](#código-fuente)
+- [Planificación](#planificación)
+- [Autores](#autores)
+  
+## Introducción
 - Nombre del proyecto: ChopperAdventure
   
 - Objetivo: ChopperAdventures es un juego de aventuras el cual trata de un perro y dos gatos, el perro Chopper tiene juguetes y los dos gatos involucrados le roban sus juguetes y por lo cual se genera una persecución en la cuidad.
@@ -29,17 +36,22 @@ y siempre está detrás de las travesuras de Buggy.
 
 - Escenario:
   1. Terreno por nivel:
+  
 Nivel 1: Persiguiendo a Robin por las calles de la ciudad.
 Nivel 2: Persiguiendo a Robin por las calles de la ciudad y esquivando 
 obstáculos.
 Nivel 3: Persiguiendo a Robi y Buggy por las calles de la ciudad y atrapándolos 
 a los 2 y recuperando sus juguetes
+
 2. Decoraciones por nivel.
+   
 Nivel 1: Decoraciones de las calles de una ciudad y semáforos.
 Nivel 2: Decoraciones de las calles de una ciudad y diferentes obstáculos.
 Nivel 3: Decoraciones de las calles de una ciudad con diferentes estilos de 
 carretera o calle.
-3. Objetos
+
+4. Objetos
+
 Nivel 1: Vehículos, personajes, semáforos y edificios.
 Nivel 2: Vehículos, personajes, diferentes tipos de obstáculos 
 Nivel 3: Vehículos, personajes, diferentes tipos de obstáculos y semáforos.
@@ -58,6 +70,16 @@ de esto fue traes ellos en su vehículo color rojo por toda la ciudad.
   1. Robin, Buggy y Chopper no deben de salirse de la carretera y/o calle.
   2. Chopper debe de conducir un vehículo.
 
-- Pantallas de Juego:
-  
-- Plan de creación de VideoJuego:
+- Pantallas de Juego: 
+
+## Código Fuente
+* VideoJuego
+* [ChopperAdventures]()
+
+## Planificación
+
+![ChopperAdventures]()
+
+## Autores
+Maria Guadalupe Puente Gonzalez.
+
