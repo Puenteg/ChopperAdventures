@@ -26,16 +26,17 @@
 un juego es apto para todas las edades y para mayores de 6 años.
 
 - Personajes:
+  <br>
  • Chopper es un perro de dos años muy alegre y feliz que vive muy 
-contento en su casa con sus dueños.
+contento en su casa con sus dueños. <br>
 • Buggy es un gato rebelde y con un carácter detestable, es 
-sangrón y narcisista. 
+sangrón y narcisista. <br>
 • Robin es una gatita traviesa e interactiva, es muy molesta 
-y siempre está detrás de las travesuras de Buggy.
+y siempre está detrás de las travesuras de Buggy.<br>
 
 - Escenario:
-  
-   **Terreno por nivel:**
+
+**Terreno por nivel:**
   
 Nivel 1: Persiguiendo a Robin por las calles de la ciudad.
 
@@ -45,7 +46,7 @@ obstáculos.
 Nivel 3: Persiguiendo a Robi y Buggy por las calles de la ciudad y atrapándolos 
 a los 2 y recuperando sus juguetes
 
-**Decoraciones por nivel:*** 
+**Decoraciones por nivel:**
    
 Nivel 1: Decoraciones de las calles de una ciudad y semáforos.
 
