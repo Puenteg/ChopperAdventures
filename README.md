@@ -86,7 +86,7 @@ de esto fue traes ellos en su vehículo color rojo por toda la ciudad.
 
 ## Planificación
 
-![ChopperAdventures](https://app.asana.com/0/1208863515326699/1208863514020512)
+![Tablero de planificacion del Videojuego ChopperAdventures](https://github.com/Puenteg/ChopperAdventures/blob/main/Tablero%20de%20Asana.png)
 
 ## Autores
 Maria Guadalupe Puente Gonzalez.
