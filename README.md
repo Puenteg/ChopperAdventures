@@ -73,7 +73,9 @@ fueron robadas por dos gatos Buggy y Robin. Al momento de que Chopper se percat�
 de esto fue traes ellos en su vehículo color rojo por toda la ciudad.
 
 - Reglas de Juego:
+  
   1.Robin, Buggy y Chopper no deben de salirse de la carretera y/o calle.
+  
   2.Chopper debe de conducir un vehículo.
 
 - Pantallas de Juego: 
