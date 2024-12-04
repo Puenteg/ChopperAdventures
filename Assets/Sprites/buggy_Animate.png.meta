@@ -1,0 +1,1785 @@
+fileFormatVersion: 2
+guid: 0bba4a4cbaf17fd41806f03a35cb63d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buggy_Animate_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 1533
+        height: 1257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a1c37c11c0d7d4e833cd08da92c13f
+      internalID: 551354528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_1
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 1247
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efd297498d25734e9b963b0f3ce7032
+      internalID: -945871376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_2
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 1251
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0208c931f3677f41a97c0f89cdb9d80
+      internalID: 1670495692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_3
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 1247
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea40365e669edc479f40029068d0d75
+      internalID: -1481269710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_4
+      rect:
+        serializedVersion: 2
+        x: 3949
+        y: 1251
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee2e7041a250ce4b8d1366800a0f1a4
+      internalID: -973008113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_5
+      rect:
+        serializedVersion: 2
+        x: 5579
+        y: 1247
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606124d29e5f4ae41a1821440ec330ec
+      internalID: -1484691342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_6
+      rect:
+        serializedVersion: 2
+        x: 5604
+        y: 1251
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514996c976d67bb4fbe30e61ad0f1fd9
+      internalID: 1096562583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_7
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1238
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b90a484eedf23469693733172f7175
+      internalID: -1859152874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_8
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1241
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1167209d3fe47a479c92fc80612e3c5
+      internalID: 1968419554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_9
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 1235
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362101d3d179f57438e94798ab2df036
+      internalID: 479079207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_10
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 1238
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939a006669eb1aa4f9cf353042a8570f
+      internalID: 1998892172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_11
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1238
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59497e310a99bf2468e7f447d2e7a91a
+      internalID: 556613906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_12
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 1231
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b83905eb5211848af1185e8513f00e
+      internalID: 243072792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_13
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 1238
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60583977b2111ad45947fb0c746555da
+      internalID: -309197341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_14
+      rect:
+        serializedVersion: 2
+        x: 3891
+        y: 1241
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bddda1e53fcb7428210f024831e38c
+      internalID: 1877612968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_15
+      rect:
+        serializedVersion: 2
+        x: 3997
+        y: 1235
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c53729fe1619b94faabbdc650951e51
+      internalID: -1094163447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_16
+      rect:
+        serializedVersion: 2
+        x: 4315
+        y: 1238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65304ab51a64fb24ab96ea911830abab
+      internalID: -1935873996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_17
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 1238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4daca6cc336d6f489c7f583ac434f13
+      internalID: -848913947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_18
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 1228
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d55228f7a43c364690348a5ca25ad3e
+      internalID: -1148315919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_19
+      rect:
+        serializedVersion: 2
+        x: 5534
+        y: 1238
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ebdececcc6652429d544532b015cff
+      internalID: 73432930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_20
+      rect:
+        serializedVersion: 2
+        x: 5547
+        y: 1241
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12620cf20436614d984600808f9fac7
+      internalID: 1040784169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_21
+      rect:
+        serializedVersion: 2
+        x: 5653
+        y: 1235
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d78a1d111ba72469c70f4643ae399b
+      internalID: 1823618242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_22
+      rect:
+        serializedVersion: 2
+        x: 5967
+        y: 1238
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d433943ea3f1b764095f2c19fcd773d1
+      internalID: 764787124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_23
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 1238
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf0ef6d2e015364e8ef0432deee0e88
+      internalID: -619463800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_24
+      rect:
+        serializedVersion: 2
+        x: 6018
+        y: 1231
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fda8a79deace647be743ae4e4f9b75
+      internalID: 1218865230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_25
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cf6e64ad6b9e9428e4230258b3f8d4
+      internalID: 1330170007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_26
+      rect:
+        serializedVersion: 2
+        x: 2621
+        y: 1222
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55417019ce426643acdb8da941f8165
+      internalID: -1189558957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_27
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb8877482af3dc4582931d7d0be6ff9
+      internalID: -83359513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_28
+      rect:
+        serializedVersion: 2
+        x: 2727
+        y: 1228
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0affbd04fd15342826d79f3ff55a6e
+      internalID: -216770706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_29
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 1225
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd387925f8d65bf40979e9aa6017d55a
+      internalID: -422259130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_30
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 1222
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f020701d11613d240b0e8c7731ae9942
+      internalID: -1024742719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_31
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 1231
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982d85d00d2160443a5c41c2425eda6f
+      internalID: -427366018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_32
+      rect:
+        serializedVersion: 2
+        x: 5505
+        y: 1225
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79c464a802de194dad66fa0f39fed62
+      internalID: 2012585557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_33
+      rect:
+        serializedVersion: 2
+        x: 5928
+        y: 1222
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7aa79fb7ee23e458cfec9347858d8a
+      internalID: -1285739794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_34
+      rect:
+        serializedVersion: 2
+        x: 5948
+        y: 1231
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6d3d4a53bb30640ac900f35dda26f8
+      internalID: 783650486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_35
+      rect:
+        serializedVersion: 2
+        x: 6034
+        y: 1228
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2b56079b6feb945a982f8adeb9acab
+      internalID: 1879091628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_36
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1219
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32e2db938e77734f8d893c7677b6778
+      internalID: -1755151665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_37
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 1222
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e176f38cd73da4c9cb41563bdf4b28
+      internalID: 458016911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_38
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1222
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3450c7e6e7dec0f4db92c7ce19d412d5
+      internalID: -613624311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_39
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 1212
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fa254a07b245445be1b25d38ea8583
+      internalID: 689668193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_40
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 1202
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f67cfd0ed55ee4cb1241e8c12f3c28
+      internalID: -67348472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_41
+      rect:
+        serializedVersion: 2
+        x: 4065
+        y: 1219
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7198c8612cea1243b61272649315bc8
+      internalID: 1377369403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_42
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 1222
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85635ebd7ab702498941b4fa9fa0138
+      internalID: -648946930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_43
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 1222
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021b739e15f8e774db1aba4c178ae9e8
+      internalID: 1309282161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_44
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 1212
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a5cc6413b0f524e94a837320585770
+      internalID: -2140200565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_45
+      rect:
+        serializedVersion: 2
+        x: 4405
+        y: 1202
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd526b785450b1841bf3050752d60144
+      internalID: 1625457713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_46
+      rect:
+        serializedVersion: 2
+        x: 5717
+        y: 1219
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441d8746a3bf0df4087fda5eea9d17ae
+      internalID: -718734000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_47
+      rect:
+        serializedVersion: 2
+        x: 5736
+        y: 1222
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e43d098e2a636439dd837bf1590514
+      internalID: -1246377943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_48
+      rect:
+        serializedVersion: 2
+        x: 5810
+        y: 1222
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29716be57b68cef4295f37473c1af02a
+      internalID: 156316524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_49
+      rect:
+        serializedVersion: 2
+        x: 5839
+        y: 1212
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173cea1f46e6ab04bbf1b19491c1e3f8
+      internalID: 681190335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_50
+      rect:
+        serializedVersion: 2
+        x: 6060
+        y: 1202
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ecfa637600c7458c5668c50cbb0ae
+      internalID: 1524867908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_51
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 0
+        width: 1533
+        height: 1257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5afca4f56ba06409d908b4946cee9f
+      internalID: 300817545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_52
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 1209
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6918fb6da6cdca42b3ec5038ff4a4bc
+      internalID: 1598782225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_53
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 1202
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0ece7fea28b554998ca55990f52d14
+      internalID: 254073499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_54
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 0
+        width: 1533
+        height: 1257
+      alignment: 9
+      pivot: {x: 0.50475734, y: 0.49419826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd2844d58e676e40ba34c0f8ab04434
+      internalID: 1538899904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_55
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 1209
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daa9e2b9854d744cae85145838bc8f1
+      internalID: -1929989252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_56
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 1202
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0cd69dac83e1042a8e076204951d30
+      internalID: -1680735304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_57
+      rect:
+        serializedVersion: 2
+        x: 5874
+        y: 1209
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdef4f2bcfe703479d8bbb42ee0a0eb
+      internalID: -178905113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_58
+      rect:
+        serializedVersion: 2
+        x: 5890
+        y: 1202
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60083c8fc48f954bbc598bbf4b91ac5
+      internalID: -617469463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_59
+      rect:
+        serializedVersion: 2
+        x: 6121
+        y: 1202
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20c64ba821ced44798f7637acc48944
+      internalID: -1342630083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_60
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 260
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c33f5601572f0c4d8a087ecc4e91b3e
+      internalID: -182717349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_61
+      rect:
+        serializedVersion: 2
+        x: 4985
+        y: 266
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70ca5ab7bd1c8649b98e298b1dcf450
+      internalID: -1751603121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_62
+      rect:
+        serializedVersion: 2
+        x: 4965
+        y: 42
+        width: 1533
+        height: 1215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac970bb70d6c7440805238303b1a368
+      internalID: 1004427878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_63
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 221
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155d0c0ecfcf59745be4c491558aee33
+      internalID: 1746554029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_64
+      rect:
+        serializedVersion: 2
+        x: 4985
+        y: 221
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c465cec5cf049a74c9d407d7f4481beb
+      internalID: -902202813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_65
+      rect:
+        serializedVersion: 2
+        x: 4998
+        y: 202
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7968bd88c671448a65f550376e173e
+      internalID: 1814067614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_66
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 173
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560763e1ccc488049b0dbe12290be9d8
+      internalID: 573637986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_67
+      rect:
+        serializedVersion: 2
+        x: 4985
+        y: 173
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8030bd689c19c4f4aa7fc37567758e94
+      internalID: -48944723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_68
+      rect:
+        serializedVersion: 2
+        x: 3340
+        y: 135
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d294fa9f495da744a53b880fae6bc3b
+      internalID: 1524968332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_69
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 131
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d3c3d9ec8526a41b21eedaa5c29082
+      internalID: 1315841800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_70
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 0
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40c6ff264f69a84791771a34d74078f
+      internalID: -1738772523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_71
+      rect:
+        serializedVersion: 2
+        x: 5101
+        y: 35
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329d9e8d9190224468f1e082a69958e6
+      internalID: 834637354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_72
+      rect:
+        serializedVersion: 2
+        x: 5842
+        y: 0
+        width: 67
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557b0ff2e8dc7b046b9eb0bb19e76f1c
+      internalID: 49898672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_73
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 26
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e529e9814670fc14984ce476b72a1da7
+      internalID: 1412439788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buggy_Animate_74
+      rect:
+        serializedVersion: 2
+        x: 5158
+        y: 26
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d405b3e8a22beb945b9f28915de92910
+      internalID: 1998680831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      buggy_Animate_0: 551354528
+      buggy_Animate_1: -945871376
+      buggy_Animate_10: 1998892172
+      buggy_Animate_11: 556613906
+      buggy_Animate_12: 243072792
+      buggy_Animate_13: -309197341
+      buggy_Animate_14: 1877612968
+      buggy_Animate_15: -1094163447
+      buggy_Animate_16: -1935873996
+      buggy_Animate_17: -848913947
+      buggy_Animate_18: -1148315919
+      buggy_Animate_19: 73432930
+      buggy_Animate_2: 1670495692
+      buggy_Animate_20: 1040784169
+      buggy_Animate_21: 1823618242
+      buggy_Animate_22: 764787124
+      buggy_Animate_23: -619463800
+      buggy_Animate_24: 1218865230
+      buggy_Animate_25: 1330170007
+      buggy_Animate_26: -1189558957
+      buggy_Animate_27: -83359513
+      buggy_Animate_28: -216770706
+      buggy_Animate_29: -422259130
+      buggy_Animate_3: -1481269710
+      buggy_Animate_30: -1024742719
+      buggy_Animate_31: -427366018
+      buggy_Animate_32: 2012585557
+      buggy_Animate_33: -1285739794
+      buggy_Animate_34: 783650486
+      buggy_Animate_35: 1879091628
+      buggy_Animate_36: -1755151665
+      buggy_Animate_37: 458016911
+      buggy_Animate_38: -613624311
+      buggy_Animate_39: 689668193
+      buggy_Animate_4: -973008113
+      buggy_Animate_40: -67348472
+      buggy_Animate_41: 1377369403
+      buggy_Animate_42: -648946930
+      buggy_Animate_43: 1309282161
+      buggy_Animate_44: -2140200565
+      buggy_Animate_45: 1625457713
+      buggy_Animate_46: -718734000
+      buggy_Animate_47: -1246377943
+      buggy_Animate_48: 156316524
+      buggy_Animate_49: 681190335
+      buggy_Animate_5: -1484691342
+      buggy_Animate_50: 1524867908
+      buggy_Animate_51: 300817545
+      buggy_Animate_52: 1598782225
+      buggy_Animate_53: 254073499
+      buggy_Animate_54: 1538899904
+      buggy_Animate_55: -1929989252
+      buggy_Animate_56: -1680735304
+      buggy_Animate_57: -178905113
+      buggy_Animate_58: -617469463
+      buggy_Animate_59: -1342630083
+      buggy_Animate_6: 1096562583
+      buggy_Animate_60: -182717349
+      buggy_Animate_61: -1751603121
+      buggy_Animate_62: 1004427878
+      buggy_Animate_63: 1746554029
+      buggy_Animate_64: -902202813
+      buggy_Animate_65: 1814067614
+      buggy_Animate_66: 573637986
+      buggy_Animate_67: -48944723
+      buggy_Animate_68: 1524968332
+      buggy_Animate_69: 1315841800
+      buggy_Animate_7: -1859152874
+      buggy_Animate_70: -1738772523
+      buggy_Animate_71: 834637354
+      buggy_Animate_72: 49898672
+      buggy_Animate_73: 1412439788
+      buggy_Animate_74: 1998680831
+      buggy_Animate_8: 1968419554
+      buggy_Animate_9: 479079207
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
