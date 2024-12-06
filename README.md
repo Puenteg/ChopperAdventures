@@ -33,7 +33,7 @@ un juego es apto para todas las edades y para mayores de 6 años.
 <br>
 
 - Escenario:
-  1.	Chopper esta en casa descansando cuando se da cuenta que Robin y Buggy están en su casa y Chopper sale en su vehículo a perseguirlos, pero tratando de esquivar a Robin ya que ella lo puede lastimar y trata de perseguir y alcanzar a Buggy esquivando obstáculos que le aparecen enfrente para poder atrapar a Buggy.  <br> 
+1.	Chopper esta en casa descansando cuando se da cuenta que Robin y Buggy están en su casa y Chopper sale en su vehículo a perseguirlos, pero tratando de esquivar a Robin ya que ella lo puede lastimar y trata de perseguir y alcanzar a Buggy esquivando obstáculos que le aparecen enfrente para poder atrapar a Buggy.  <br> 
 2.	Chopper enfrenta nuevos obstáculos que están sobre el agua para poder atrapar a Buggy y darle una lección cuando Chopper atrape a Buggy es el final de la partida.
 
 
