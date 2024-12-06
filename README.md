@@ -18,7 +18,7 @@
   
 - Objetivo: El objetivo de Chopper es esquivar a Robin para que no le haga daño y atrapar a Buggy para darle una lección y que no vuelva a meterse a su casa y estos gatos banda los no vuelvan a molestar a Chopper y a sus papas
   
-- Plataforma: PC
+  -Plataforma: PC
   
 - Género: Aventura
   
