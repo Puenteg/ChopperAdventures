@@ -43,17 +43,11 @@ Nivel 1: Persiguiendo a Robin por las calles de la ciudad.
 Nivel 2: Persiguiendo a Robin por las calles de la ciudad y esquivando 
 obstáculos.
 
-Nivel 3: Persiguiendo a Robi y Buggy por las calles de la ciudad y atrapándolos 
-a los 2 y recuperando sus juguetes
-
 **Decoraciones por nivel:**
    
 Nivel 1: Decoraciones de las calles de una ciudad y semáforos.
 
 Nivel 2: Decoraciones de las calles de una ciudad y diferentes obstáculos.
-
-Nivel 3: Decoraciones de las calles de una ciudad con diferentes estilos de 
-carretera o calle.
 
 **Objetos:**
 
@@ -61,7 +55,6 @@ Nivel 1: Vehículos, personajes, semáforos y edificios.
 
 Nivel 2: Vehículos, personajes, diferentes tipos de obstáculos 
 
-Nivel 3: Vehículos, personajes, diferentes tipos de obstáculos y semáforos.
 
 - Historia:
 Chopper lleva una vida muy agradable a lado de sus dos dueños que lo quieren y 
