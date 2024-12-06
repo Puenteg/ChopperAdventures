@@ -32,7 +32,7 @@ un juego es apto para todas las edades y para mayores de 6 años.
   *Robin* es una gatita traviesa e interactiva, es muy molesta y siempre está detrás de las travesuras de Buggy. <br> 
 <br>
 - Diseño de los personajes
--  <img src=https://github.com/Puenteg/ChopperAdventures/blob/main/Personajes/Chopper%202.jpeg"">
+-  <img src= "https://github.com/Puenteg/ChopperAdventures/blob/main/Personajes/Chopper%202.jpeg">
 -  <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Personajes/Chopper%20Otaku.jpeg">
 -  <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Personajes/Chopper.jpeg">
 
