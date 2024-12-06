@@ -60,7 +60,7 @@ Nivel 2: Vehículos, personajes, diferentes tipos de obstáculos
 El videojuego ChopperAdventure trata de un perro que vive con sus papas humanos, los cuales viven en una casa felices siendo una familia de 3. Pero existen dos gatos que molestan su paz estos dos gatos son la gata Robin y el gato Buggy los cuales se infiltran en la casa del perro Chopper y de sus papás, estos gatos hacen travesuras en la casa por lo cual constantemente Chopper tiene que estas sacándolos de la casa y persiguiéndolos, pero la gata Robin es muy agresiva con Chopper y Buggy tiene la facilidad de huir a gran velocidad.
 El objetivo de Chopper es esquivar a Robin para que no le haga daño y atrapar a Buggy para darle una lección y que no vuelva a meterse a su casa y estos gatos banda los no vuelvan a molestar a Chopper y a sus papas
 
--Objetivos especiales: 
+-Objetivos especiales:  <br> 
 	Chopper: Cuidar su casa en la cual vive con sus papás tratando se atrapar al gato travieso de Buggy y así dándole una lección tratando de esquivar a la gata Robin que lo puede lastimar, cuando Chopper alcance a Buggy será el final del juego.  <br> 
 	Robin: Ser la compañera leal de gato Buggy y tratar de cuidarle las espaldas tratado de hacerle daño al perro Chopper.  <br> 
 	Buggy: ser un gato travieso que molesta al perro Chopper con ayuda de su secuas Robin. 
