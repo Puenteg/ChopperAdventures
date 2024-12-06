@@ -87,6 +87,7 @@ El objetivo de Chopper es esquivar a Robin para que no le haga daño y atrapar a
 ## Código Fuente
 * VideoJuego
 * [ChopperAdventures]()
+* * [Link de itch de ChopperAdventures](https://gpuente20.itch.io/choppers-adventure)
 
 ## Planificación
 
