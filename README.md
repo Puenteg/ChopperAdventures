@@ -66,11 +66,11 @@ El objetivo de Chopper es esquivar a Robin para que no le haga daño y atrapar a
 	Buggy: ser un gato travieso que molesta al perro Chopper con ayuda de su secuas Robin. 
 
 - Reglas de Juego: <br> 
- <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Reglas%20del%20juego/Regla%201.png" alt="Logo" width=120 height=30>
-  <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Reglas%20del%20juego/Regla%202.png" alt="Logo" width=120 height=30>
-   <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Reglas%20del%20juego/Regla%203.png" width=120 height=30>
-    <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Reglas%20del%20juego/Regla%204.png" alt="Logo" width=120 height=30>
-     <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Reglas%20del%20juego/Regla%205.png" width=120 height=30>
+ <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Reglas%20del%20juego/Regla%201.png">
+  <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Reglas%20del%20juego/Regla%202.png" >
+   <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Reglas%20del%20juego/Regla%203.png">
+    <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Reglas%20del%20juego/Regla%204.png">
+     <img src="https://github.com/Puenteg/ChopperAdventures/blob/main/Reglas%20del%20juego/Regla%205.png" >
      
 - Retos:
 1.	Chopper debe esquivar los obstáculos necesarios para poder atrapar a Buggy, uno de los obstáculos más peligrosos es la gata secuas de Buggy ya que ella tratara de se hacerle daño con tal de que         no atrape a su líder Buggy.  <br> 
