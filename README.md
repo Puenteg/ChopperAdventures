@@ -91,6 +91,7 @@ El objetivo de Chopper es esquivar a Robin para que no le haga daño y atrapar a
 ## Planificación
 
 ![Tablero de planificacion del Videojuego ChopperAdventures](https://github.com/Puenteg/ChopperAdventures/blob/main/Tablero%20de%20Asana.png)
+* [Tablero de ChopperAdventures](https://app.asana.com/0/1208863515326699/1208863514020512)
 
 ## Autores
 Maria Guadalupe Puente Gonzalez.
